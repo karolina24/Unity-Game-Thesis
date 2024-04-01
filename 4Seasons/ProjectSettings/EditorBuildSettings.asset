@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Levels/UI/Menu.unity
+    guid: a2e875d7d32da26498e45ed155cf3c9b
+  - enabled: 1
+    path: Assets/Levels/UI/Rejestracja.unity
+    guid: adab900b1c87444418a12038c7f4a3e7
+  - enabled: 1
+    path: Assets/Levels/UI/Logowanie.unity
+    guid: f82b5919f1985e64fac291ebc1760965
+  - enabled: 1
+    path: Assets/Levels/Pory roku/Wiosna.unity
+    guid: 3a253801da976a54680e7202c95f0446
+  - enabled: 1
+    path: Assets/Levels/Pory roku/Lato.unity
+    guid: 8595caed253d3384b902c7f7cae1a0c4
+  - enabled: 1
+    path: Assets/Levels/Pory roku/Jesien.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Levels/Pory roku/Zima.unity
+    guid: 7c563e5a4c9890a4f9cefeec3a376cfb
+  - enabled: 1
+    path: Assets/Levels/UI/Wynik.unity
+    guid: f051fecba3c8531478ce8d9d51043ab9
+  m_configObjects: {}
