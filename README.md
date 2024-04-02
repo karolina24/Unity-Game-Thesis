@@ -4,6 +4,8 @@
 
 Playthrough of "4 Seasons": https://www.youtube.com/watch?v=LcP8yzDG2F0
 
+# Description
+
 <img width="440" alt="image" src="https://github.com/karolina24/4-seasons/assets/84624230/94c6f91e-8b1d-4340-b171-92810e3f9b7a">
 
 "4 Seasons" incorporates user-friendly UI interfaces, enabling players to register and log in to their accounts, which track and save their scores. This feature enhances the gaming experience, offering a seamless way to maintain progress and foster competition.
