@@ -2,7 +2,7 @@
 
 "4 Seasons" is a platformer game developed as a bachelor's thesis using Unity. It is programmed in C# and integrates a MySQL local database through PHP.
 
-Playthrough of "4 Seasons": https://www.youtube.com/watch?v=LcP8yzDG2F0
+Playthrough: https://www.youtube.com/watch?v=LcP8yzDG2F0
 
 # Description
 
